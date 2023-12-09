@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  border: 2px solid #76b947;
+  border-radius: 5px;
+  width: 45%;
+  padding: 10px;
+}
+
+.button {
+  width: 25%;
+  border: 2px solid #76b947;
+  border-radius: 5px;
+  height: 25px;
+  width: 100px;
+}

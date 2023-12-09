@@ -1,0 +1,13 @@
+.button {
+  border: 2px solid 76b947;
+  border-radius: 5px;
+  width: 200px;
+  height: 30px;
+  margin: 10px;
+}
+
+.buttoncontainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

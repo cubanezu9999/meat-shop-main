@@ -1,0 +1,21 @@
+.address {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 10px;
+}
+
+.form {
+  border: 2px solid #76b947;
+  border-radius: 5px;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+input[type="text"] {
+  border: 2px solid #76b947;
+  border-radius: 5px;
+  height: 23px;
+}
